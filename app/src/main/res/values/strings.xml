@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">Generic</string>
+    <string name="main_input_hint">Enter a number</string>
+    <string name="main_input_error">Enter a number greater than 25</string>
+    <string name="main_toast">TOAST</string>
+    <string name="main_toast_message">Nice, %s is greater than 25!</string>
+
+</resources>
