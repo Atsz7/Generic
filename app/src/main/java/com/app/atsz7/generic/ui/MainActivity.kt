@@ -1,4 +1,4 @@
-package com.app.atsz7.generic
+package com.app.atsz7.generic.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
@@ -6,6 +6,7 @@ import android.text.Editable
 import android.text.TextWatcher
 import android.view.View
 import android.widget.Toast
+import com.app.atsz7.generic.R
 import com.app.atsz7.generic.extensions.setVisibility
 import kotlinx.android.synthetic.main.activity_main.*
 
